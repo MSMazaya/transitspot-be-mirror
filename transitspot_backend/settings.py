@@ -49,6 +49,7 @@ INSTALLED_APPS = [
     'django_eventstream',
     'channels',
     'channels.http',
+    'daphne',
 ]
 
 MIDDLEWARE = [
